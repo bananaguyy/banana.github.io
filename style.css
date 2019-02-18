@@ -1,0 +1,26 @@
+
+
+.logo{
+  color: White;
+}
+.jumbotron{
+  background-color: #45b7b8;
+  border-bottom: solid #f7de1c;
+}
+.btn{
+  border-radius: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 20px;
+
+
+}
+.galaxy{
+  margin-top: 15px;
+}
+.galaxy1{
+  margin-top: 100px;
+}
+.colorr{
+  color: #444444;
+}
